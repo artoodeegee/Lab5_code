@@ -1,2 +1,2 @@
-# Lab5_code
-First Level Design
+# JSPlatformer
+JS Platformer for DIG 3480C
